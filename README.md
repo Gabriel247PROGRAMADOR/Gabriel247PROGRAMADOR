@@ -9,8 +9,9 @@ Sou apaixonado por tecnologia e desenvolvimento de jogos, sendo uma de minhas me
 <p align="left">
     <a href="https://github.com/Gabriel247PROGRAMADOR?tab=repositories&sort=stargazers">
         <img 
-        alt="Total de estrelas" 
-        src="https://custom-icon-badges.demolab.com/github/stars/Gabriel247PROGRAMADOR?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&v=<?=time()?>" 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Gabriel247PROGRAMADOR?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Gabriel247PROGRAMADOR?tab=followers">
